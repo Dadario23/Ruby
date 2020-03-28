@@ -22,7 +22,7 @@ def buscar(matriz,elem)
             if item2==elem 
             arreglo << posision
             arreglo << posision2
-            puts arreglo                            
+            puts [arreglo]                            
             end            
         end
           
